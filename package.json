@@ -4,7 +4,7 @@
   "description": "NodeJS REST API for Training Manager App",
   "main": "app.js",
   "scripts": {
-    "test": "npm test"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
