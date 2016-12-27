@@ -1,0 +1,24 @@
+{
+  "name": "training-manager-api",
+  "version": "1.0.0",
+  "description": "NodeJS REST API for Training Manager App",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasunkv/Training-Manager-API.git"
+  },
+  "keywords": [
+    "node",
+    "REST",
+    "API"
+  ],
+  "author": "Kasun Kodagoda <kvkrusl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kasunkv/Training-Manager-API/issues"
+  },
+  "homepage": "https://github.com/kasunkv/Training-Manager-API#readme"
+}
