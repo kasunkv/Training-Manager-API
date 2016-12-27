@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/kasunkv/Training-Manager-API/issues"
   },
-  "homepage": "https://github.com/kasunkv/Training-Manager-API#readme"
+  "homepage": "https://github.com/kasunkv/Training-Manager-API#readme",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "mongoose": "4.7.5"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1"
+  }
 }
